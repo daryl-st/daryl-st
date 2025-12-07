@@ -112,7 +112,7 @@ const dawit: Developer = {
 ## 📫 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/daryl-st">
+  <a href="https://www.linkedin.com/in/darnell-st">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
